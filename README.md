@@ -194,4 +194,4 @@ submitting a large change so it can be discussed first.
 
 ## Contact
 
-[Corresponding author email — see manuscript]
+uthay@bioinfo.sastra.edu
